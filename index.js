@@ -11,11 +11,11 @@ bot.onText(/\/start/, (msg) => {
   const welcomeMessage = `
 *Welcome to the official Winna Telegram App!*
 
-You can now play on [Winna.com](https://winna.com) — fully integrated inside Telegram 🎉
+You can now play on Winna.com — fully integrated inside Telegram 🎉
 
 *Before you start*, please make sure you’re using *@WinnaTelegramApp_Bot* to avoid fake or compromised apps.
 
-If you have any questions, our 24/7 Live Support is ready to help at [Winna.com](https://winna.com).
+If you have any questions, our 24/7 Live Support is ready to help at Winna.com.
 
 Good luck, Winna's! 🚀
 `;
